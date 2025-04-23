@@ -1,7 +1,7 @@
 # Resume Hero 
 ### An AI-Powered Resume Analysis App on AWS
 
-![App Architecture](architecture.png)
+![App Architecture](docs/architecture.png)
 
 This project is a **Streamlit web application** that allows users to **upload resumes & job descriptions** in PDF format, process them using AI, and receive **skills analysis, resume improvement advice, and a generated cover letter**.
 
